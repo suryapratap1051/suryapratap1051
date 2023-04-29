@@ -2,7 +2,7 @@
 - 👀 I’m interested in .ML||AI
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Chek my Resume - https://drive.google.com/drive/folders/1PoCQRyDJq-NwxuxP5MGXkCNP7cdA0LMt
 
 <!---
 suryapratap1051/suryapratap1051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
