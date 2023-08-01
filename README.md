@@ -1,7 +1,7 @@
 - 👋 Hi, I  am SURYA PRATAP
 - 👀 I’m interested in .ML||AI
 - 🌱 I’m currently learning ...DL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Scientist
 - 📫 
 
 <!---
