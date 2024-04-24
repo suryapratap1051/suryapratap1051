@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **suryapratap1051@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HMl1k4ZWKbWw_Hp6u-BXbE__lpBnLItl/view](https://drive.google.com/file/d/1HMl1k4ZWKbWw_Hp6u-BXbE__lpBnLItl/view)
+- 📄 Know about my experiences - https://drive.google.com/file/d/1XN8_swFu_zq2IH9Qiiq6IrhqiESIU_9H/view?usp=sharing
 
 - ⚡ Fun fact **I am funny😅**
 
