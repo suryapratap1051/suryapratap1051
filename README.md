@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suryapratap1051](https://github.com/suryapratap1051)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/suryapratap1/blogs](https://sites.google.com/view/suryapratap1/blogs)
+- 📝 I regularly write articles on [https://www.suryapratap.space/](https://www.suryapratap.space)
 
 - 💬 Ask me about **Python,Machine Learning,Deep Learning**
 
